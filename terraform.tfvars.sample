@@ -1,0 +1,6 @@
+aws_profile = ""
+region = "us-east-2"
+project_name = "static_web_app_terraform"
+domain_name = "staticapp2.cntechy.com"
+cf_s3_origin_id = ""
+hosted_zone_id = ""
