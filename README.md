@@ -8,7 +8,7 @@ This is a Terraform project which shows how to deploy a static website using AWS
 
 3. Run the terraform commands. 
 
-The full step-by-step guide on how the project is available at [blog.cntechy.com](https://blog.cntechy.com/how-to-automate-linting-before-a-git-commit)
+The full step-by-step guide on how the project is available at [blog.cntechy.com](https://blog.cntechy.com/how-to-deploy-your-static-site-with-terraform-s3-and-cloudfront)
 
 # Final Result
 
